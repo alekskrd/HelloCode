@@ -1,0 +1,15 @@
+/home/aleksandr/Документы/Examples/Examoles001_HelloConsole/bin/Debug/net6.0/Examoles001_HelloConsole
+/home/aleksandr/Документы/Examples/Examoles001_HelloConsole/bin/Debug/net6.0/Examoles001_HelloConsole.deps.json
+/home/aleksandr/Документы/Examples/Examoles001_HelloConsole/bin/Debug/net6.0/Examoles001_HelloConsole.runtimeconfig.json
+/home/aleksandr/Документы/Examples/Examoles001_HelloConsole/bin/Debug/net6.0/Examoles001_HelloConsole.dll
+/home/aleksandr/Документы/Examples/Examoles001_HelloConsole/bin/Debug/net6.0/ref/Examoles001_HelloConsole.dll
+/home/aleksandr/Документы/Examples/Examoles001_HelloConsole/bin/Debug/net6.0/Examoles001_HelloConsole.pdb
+/home/aleksandr/Документы/Examples/Examoles001_HelloConsole/obj/Debug/net6.0/Examoles001_HelloConsole.csproj.AssemblyReference.cache
+/home/aleksandr/Документы/Examples/Examoles001_HelloConsole/obj/Debug/net6.0/Examoles001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/home/aleksandr/Документы/Examples/Examoles001_HelloConsole/obj/Debug/net6.0/Examoles001_HelloConsole.AssemblyInfoInputs.cache
+/home/aleksandr/Документы/Examples/Examoles001_HelloConsole/obj/Debug/net6.0/Examoles001_HelloConsole.AssemblyInfo.cs
+/home/aleksandr/Документы/Examples/Examoles001_HelloConsole/obj/Debug/net6.0/Examoles001_HelloConsole.csproj.CoreCompileInputs.cache
+/home/aleksandr/Документы/Examples/Examoles001_HelloConsole/obj/Debug/net6.0/Examoles001_HelloConsole.dll
+/home/aleksandr/Документы/Examples/Examoles001_HelloConsole/obj/Debug/net6.0/ref/Examoles001_HelloConsole.dll
+/home/aleksandr/Документы/Examples/Examoles001_HelloConsole/obj/Debug/net6.0/Examoles001_HelloConsole.pdb
+/home/aleksandr/Документы/Examples/Examoles001_HelloConsole/obj/Debug/net6.0/Examoles001_HelloConsole.genruntimeconfig.cache
